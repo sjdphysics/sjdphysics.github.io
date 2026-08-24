@@ -1,0 +1,81 @@
+{
+  "basics": {
+    "name": "Dr. Suman Jyoti De",
+    "email": "suman.de@mail.mcgill.ca",
+    "phone": "",
+    "website": "https://YOUR-GITHUB-USERNAME.github.io",
+    "summary": "Postdoctoral Researcher in Physics at McGill University, working on topological insulator thin films and surface state physics.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Montréal",
+      "countryCode": "CA",
+      "region": "Québec"
+    },
+    "profiles": [
+      {
+        "network": "Google Scholar",
+        "username": "",
+        "url": "https://scholar.google.ca/citations?user=rWZI6-kAAAAJ&hl=en"
+      },
+      {
+        "network": "ORCID",
+        "username": "",
+        "url": "https://orcid.org/0000-0003-4856-9418"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "suman-jyoti-de-37b801258",
+        "url": "https://www.linkedin.com/in/suman-jyoti-de-37b801258"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "McGill University, Department of Physics",
+      "position": "Postdoctoral Researcher",
+      "website": "",
+      "startDate": "TODO-fill-in-start-year",
+      "endDate": "",
+      "summary": "Working with Prof. Tami Pereg-Barnea on the physics of 3D topological insulator thin films, hybridization gaps, and TI dielectric screening.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "TODO: PhD institution",
+      "area": "TODO: PhD field/thesis title",
+      "studyType": "PhD",
+      "startDate": "",
+      "endDate": "TODO",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "TODO: MSc institution (if applicable)",
+      "area": "TODO: MSc field",
+      "studyType": "MSc",
+      "startDate": "",
+      "endDate": "TODO",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "TODO: BSc institution (if applicable)",
+      "area": "TODO: BSc field",
+      "studyType": "BSc",
+      "startDate": "",
+      "endDate": "TODO",
+      "gpa": null,
+      "courses": []
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "publications": [],
+  "presentations": [],
+  "teaching": [],
+  "portfolio": []
+}
