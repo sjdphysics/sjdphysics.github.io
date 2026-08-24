@@ -12,7 +12,8 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Suman Jyoti De"
 title_separator          : "-"
 name                     : &name "Suman Jyoti De"
-description              : &description "Dr. Suman Jyoti De- Welcome to my personal website"
+description              : &description "Welcome to my personal website"
+url                      : https://sjdphysics.github.io # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sumanjyotide-source/sjdphysics.github.io" 
 
