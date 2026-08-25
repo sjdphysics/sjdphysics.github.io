@@ -1,5 +1,5 @@
 ---
-title: "Magnon transmission across ν = 1|−1|1 mono-layer graphene junction as a probe of electronic structure"
+title: "Magnon transmission across ν = 1;−1;1 mono-layer graphene junction as a probe of electronic structure"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-01-01-magnon-transmission-graphene
