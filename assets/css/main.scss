@@ -37,3 +37,33 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
+
+/* --- Custom overrides: always show sidebar bio details & academic links, and wrap long text --- */
+.author__urls-wrapper .author__urls {
+  display: block !important;
+  position: static !important;
+  margin-top: 10px;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  box-shadow: none;
+}
+
+.author__urls-wrapper .author__urls:before,
+.author__urls-wrapper .author__urls:after {
+  display: none !important;
+}
+
+.author__urls-wrapper button {
+  display: none !important;
+}
+
+.author__urls li {
+  white-space: normal !important;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+}
+
+.sidebar .author__desktop {
+  display: block !important;
+}
