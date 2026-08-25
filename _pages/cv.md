@@ -13,7 +13,7 @@ Digha, West Bengal, India
 
 ## Work Experiences 
 
-- **Oct 2023 - present** - Postdoctoral researcher at McGill University, Montreal, Canada
+- **Oct 2023 - Present**: Postdoctoral Researcher at McGill University, Montreal, Canada
 
 ## Academic Qualifications
 
