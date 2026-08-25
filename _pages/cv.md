@@ -11,6 +11,10 @@ redirect_from:
 
 Digha, West Bengal, India
 
+## Work Experiences 
+
+- **Oct 2023 - present** - Postdoctoral researcher at McGill University, Montreal, Canada
+
 ## Academic Qualifications
 
 - **Ph.D. in Theoretical Physics** — Harish-Chandra Research Institute, Prayagraj, India (Aug 2017 – Sep 2023)
