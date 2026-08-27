@@ -24,10 +24,10 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Dr. Suman Jyoti De"
-  pronouns         : "he/his"  
+  pronouns         : # "he/his"
   bio              : "Postdoctoral Researcher in Physics, McGill University"
   location         : "Montréal, QC, Canada"
-  employer         : "McGill University, Department of Physics"
+  employer         : "McGill University"
   uri              : "https://www.physics.mcgill.ca/"
   email            : "suman.de@mail.mcgill.ca"
 
