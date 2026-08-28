@@ -18,15 +18,16 @@
   }
 
   @media screen and (min-width: $sidebar-screen-min-width) {
-    position: sticky;
+    position: fixed;
     top: $masthead-height;
-    bottom: auto;
-
-    max-height: calc(100vh - #{$masthead-height});
+    bottom: 0;
+    height: auto;
+  
     overflow-y: auto;
     overflow-x: hidden;
-
     box-sizing: border-box;
+  
+    padding-top: 0;
     padding-bottom: 3rem;
   }
 
