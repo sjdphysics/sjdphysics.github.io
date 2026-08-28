@@ -89,7 +89,13 @@
 }
 
 @media screen and (min-width: 1024px) {
+  .page__footer {
+    position: relative !important;
+    z-index: 1;
+  }
+
   .sidebar {
+    z-index: 2;
     scrollbar-width: thin;
     scrollbar-color: rgba(255, 255, 255, 0.4) transparent;
   }
@@ -108,7 +114,7 @@
   }
 
   .author__academic-links {
-    padding-bottom: 2rem;
+    padding-bottom: 3rem;
   }
 }
 
