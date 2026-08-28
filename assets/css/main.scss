@@ -90,19 +90,31 @@
 
 @media screen and (min-width: 1024px) {
   .sidebar {
+    max-height: calc(100vh - 20px);
+    overflow-y: auto;
+    overflow-x: hidden;
+    padding-bottom: 20px;
+
     scrollbar-width: thin;
     scrollbar-color: rgba(255, 255, 255, 0.4) transparent;
   }
+
   .sidebar::-webkit-scrollbar {
     width: 8px;
   }
+
   .sidebar::-webkit-scrollbar-thumb {
     background-color: rgba(255, 255, 255, 0.4);
     border-radius: 4px;
   }
+
   .sidebar::-webkit-scrollbar-track {
     background: transparent;
   }
+}
+
+.author__academic-links {
+  padding-bottom: 20px;
 }
 
 @media (min-width: 57.8125em) {
