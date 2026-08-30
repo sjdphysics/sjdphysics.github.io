@@ -25,9 +25,7 @@ Digha, West Bengal, India
 ## Awards and Recognitions
 
 - **Infosys Award** for excellence in research (2021–2022)
-- **Junior and Senior Research Fellow** of Harish-Chandra Research Institute, India (2017–2023)
 - Recipient of **M.Sc. Scholarship** (2015–2017) as **Integrated Ph.D. Scholar** from Homi Bhabha National Institute, India
-- Qualified for **Joint Entrance Screening Test (JEST)** and **Joint Admission Test (JAM)** for admission in M.Sc. in 2015, within top 100 ranks, India
 - Qualified for **National Graduate Physics Examination (NGPE)** as state topper, India, 2014
 - **Inspire Scholarship** (2012–2015) for excellence in Higher Education, Department of Science and Technology, India
 
